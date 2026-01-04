@@ -1,0 +1,7 @@
+{
+  "name": "Copy of HeavenzFire Dashboard",
+  "description": "A high-performance portal for HeavenzFire multimodal AI tooling, featuring project roadmaps, code-gen sandboxes, and cloud-hybrid AI interfaces.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
